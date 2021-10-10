@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# NFT Hardhat Project
+This project was created for _buildspace quest.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+--Random onchain NFT minting contract with hardhat framework
+--React used for frontend
+Created project is in the link below. 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://nft-starter-repo-final-1.tevrat-aksoy.repl.co/
